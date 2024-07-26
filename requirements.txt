@@ -1,0 +1,3 @@
+transformers
+jupyter
+python-dotenv
